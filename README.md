@@ -1,5 +1,4 @@
-Hello, I am user GreggChase, real name Gregg Chase.
-... means not yet specified/currently held back for privacy
+Hello, I am user GreggCC, real name Gregg Chase.
 - 🔭 I’m currently working on physics of fall research, theatrical set design
 - 🌱 I’m currently learning C, web vulnerabilities, COMPTIA Network+, RF, RF law, and pen testing
 - 👯 I’m looking to collaborate on no open projects currently
